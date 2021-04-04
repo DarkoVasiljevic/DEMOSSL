@@ -34,9 +34,9 @@ private:
 	const char* _szCountry = "RS";
 	const char* _szCity = "Belgrade";
 	const char* _szCommon = "RootCARequest";
-	const char* _szOrganization = "NetSetRequest";
+	const char* _szOrganization = "NetTestRequest";
 	const char* _ca_szCommon = "RootCA";
-	const char* _ca_szOrganization = "NetSet";
+	const char* _ca_szOrganization = "NetTest";
 
 public:
 	Certificate() {}
