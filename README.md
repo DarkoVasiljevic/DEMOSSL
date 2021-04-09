@@ -1,6 +1,6 @@
 # DEMOSSL
 
-.NET C++/CLI application using OpenSSL cryptography library.
+.NET C++/CLI application using OpenSSL(x86) cryptography library.
 
 ```bash
 Application use a set of Symmetric-key and Public-key cryptography algorithms to demonstrate: 
@@ -10,4 +10,3 @@ Application use a set of Symmetric-key and Public-key cryptography algorithms to
   - hash functions and message authentication code,
   - certificate generation.
  ````
-Build x86 version.
