@@ -1,8 +1,6 @@
 # DEMOSSL
 
-.NET C++/CLI application using OpenSSL cryptography library.
-
-Prerequisites: Win32 or Win64OpenSSL-1_1_1d.msi
+.NET C++/CLI application using Win32OpenSSL cryptography library.
 
 ```bash
 Application use a set of Symmetric-key and Public-key cryptography algorithms to demonstrate: 
